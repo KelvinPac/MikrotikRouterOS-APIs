@@ -1,0 +1,19 @@
+{
+  "name": "mikrotik_dev_api",
+  "version": "1.0.0",
+  "description": "mikrotik api test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mikrotik",
+    "api"
+  ],
+  "author": "kelvin",
+  "license": "ISC",
+  "dependencies": {
+    "routeros-client": "^1.1.1"
+  }
+}
